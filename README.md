@@ -14,7 +14,7 @@ This repository contains the work developed for my Bachelor's Thesis in Electron
 
 ## Tools & Methodology
 * **Mathematical Modeling:** Stability analysis and compensation curve fitting.
-* **Circuit Simulation:** Validation of oscillator startup conditions and compensation network effectiveness (LTSpice/Simulink).
+* **Circuit Simulation:** Validation of oscillator startup conditions and compensation network effectiveness (LTSpice).
 
 ## Repository Content
 * `Design/`: Circuit schematics and compensation network layouts.
